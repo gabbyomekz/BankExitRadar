@@ -25,7 +25,10 @@ BankExitRadar/
 ```
 ---
 
-## 📂 Dataset  
+## 📂 Dataset
+
+Source: [Bank Customer Churn Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)
+
 The dataset consists of **10,000 customer records** with the following key features:  
 
 - **Identification**: `RowNumber`, `CustomerId`, `Surname`
@@ -132,8 +135,7 @@ Some key insights observed:
 
 Clone the repository:  
 ```bash
-git clone https://github.com/gabbyomekz/bank-customer-churn-prediction.git
-cd bank-customer-churn-prediction
+git clone https://github.com/gabbyomekz/BankExitRadar.git
 ```
 Install dependencies:
 ```bash
