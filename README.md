@@ -14,7 +14,7 @@ The workflow covers:
 This repository contains all the components for analyzing and predicting bank customer churn. Below is the folder structure and what each part is responsible for:
 
 ## 📁 Project Structure
-
+```
 BankExitRadar/
 ├── data/               # Raw dataset files (CSV)
 ├── notebooks/          # Jupyter notebooks for analysis and modeling
@@ -22,7 +22,7 @@ BankExitRadar/
 ├── outputs/            # Generated outputs like correlation matrix, confusion matrix
 ├── README.md           # Project overview and documentation
 ├── requirements.txt    # List of Python dependencies for easy setup
-
+```
 ---
 
 ## 📂 Dataset  
